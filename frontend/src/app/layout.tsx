@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Gemma Health | Offline Medical Assistant",
+  title: "GemmaCare | Offline Medical Assistant",
   description: "Offline medical AI assistant powered by Gemma-4",
 };
 

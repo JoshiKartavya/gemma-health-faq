@@ -21,7 +21,7 @@ export function ChatInterface() {
     {
       id: "1",
       role: "bot",
-      content: "Hello! I am your Gemma Health assistant. How can I help you today? I can provide information on common health topics like malaria, pregnancy, or basic first aid.",
+      content: "Hello! I am your GemmaCare assistant. How can I help you today? I can provide information on common health topics like malaria, pregnancy, or basic first aid.",
       timestamp: new Date(),
     },
   ])

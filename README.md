@@ -1,8 +1,8 @@
-# 🩺 Gemma Health FAQ: AI Medical Assistant
+# 🩺 GemmaCare: AI Medical Assistant
 
-![Gemma Health Thumbnail](https://via.placeholder.com/1000x400.png?text=Gemma+Health+FAQ+-+Medical+RAG)
+![GemmaCare Thumbnail](https://via.placeholder.com/1000x400.png?text=GemmaCare+-+Medical+RAG)
 
-**Gemma Health FAQ** is a lightning-fast, cloud-deployed Retrieval-Augmented Generation (RAG) assistant designed to instantly provide reliable medical answers to remote health workers and patients. 
+**GemmaCare** is a lightning-fast, cloud-deployed Retrieval-Augmented Generation (RAG) assistant designed to instantly provide reliable medical answers to remote health workers and patients. 
 
 Built as a submission for the **Google – Build with Gemma Kaggle Hackathon**, this project demonstrates how to effectively combine highly-optimized semantic search with modern web architecture to solve real-world healthcare information bottlenecks.
 

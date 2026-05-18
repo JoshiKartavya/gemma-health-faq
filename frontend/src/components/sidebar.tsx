@@ -19,7 +19,7 @@ export function Sidebar({ className }: SidebarProps) {
           <HeartPulse className="w-6 h-6 text-white" />
         </div>
         <div>
-          <h1 className="font-bold text-slate-900 dark:text-white leading-tight">Gemma Health</h1>
+          <h1 className="font-bold text-slate-900 dark:text-white leading-tight">GemmaCare</h1>
           <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">Offline Assistant</p>
         </div>
       </div>
