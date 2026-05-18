@@ -7,7 +7,7 @@ import os
 # ==========================================
 
 embedder = SentenceTransformer(
-    "sentence-transformers/multi-qa-MiniLM-L6-cos-v1"
+    "sentence-transformers/all-MiniLM-L6-v2"
 )
 
 # ==========================================
